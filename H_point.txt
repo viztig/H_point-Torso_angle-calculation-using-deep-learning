@@ -1,1 +1,13 @@
+H-point or hip point is an expression used in interior design of automotive vehicles, which is a pivot
+point between the torso and the upper leg of the body. This point is used to determine various design
+considerations for other components in ergonomic design and seat comfort. In a physical setting, an SAE
+model is placed on the seat and the H-point is measured but this approach needs a complete seat model. In
+most cases, the designers need to know the H-point to design the other interior components, which is done
+before the manufacturing of the seat and the physical testing is not possible.
+
+A finite element analysis is performed on the CAD model of the seat where a SAE dummy of n-percentile
+occupant is positioned on the seat to determine the H-point. This is a very time consuming process taking
+more than fifteen hours for the whole simulation to run for a single seat model.
+
+
 
